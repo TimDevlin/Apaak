@@ -1,5 +1,4 @@
 
-
 img.resize {
   display: block;
   width: 50%;
@@ -30,4 +29,27 @@ h1 {
   border: 4px solid black;
   padding: 12px;
   width:62%;
+}
+
+.image-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:20%;
+  height: 20%;
+
+}
+.shows{
+  float: left;
+  margin-top: 20px;
+}
+
+.column{
+  width: 31%;
+  float:left;
+  border: 4px solid black;
+  padding: 12px;
+  margin-left: auto;
+  margin-right: auto;
+
 }
